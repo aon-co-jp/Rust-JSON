@@ -1,3 +1,5 @@
+> Latest translations / 翻訳の最新版: [0-LATEST-TRANSLATIONS.md](0-LATEST-TRANSLATIONS.md)
+
 # Rust-JSON
 
 Rustで書かれた、寛容(lenient)モードと厳密(strict)モードの両方を1つの
